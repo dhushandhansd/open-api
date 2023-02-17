@@ -1,0 +1,26 @@
+[
+    {
+        label: "Birds",
+        id: "Birds",
+        price: "$27",
+        image: "https://static.scientificamerican.com/sciam/cache/file/7A715AD8-449D-4B5A-ABA2C5D92D9B5A21_source.png"
+    },
+    {
+        label: "Watch",
+        id: "Watch",
+        price: "$77",
+        image: "https://staticimg.titan.co.in/Titan/Catalog/90156AP01_1.jpg"
+    },
+    {
+        label: "Ring",
+        id: "Ring",
+        price: "$577",
+        image: "https://5.imimg.com/data5/SELLER/Default/2021/8/RP/HZ/PC/13661997/couple-love-butterfly-ring-set-1000x1000.jpg"
+    },
+    {
+        label: "Bag",
+        id: "Bag",
+        price: "$577",
+        image: "https://m.media-amazon.com/images/I/61bLA0GA7jL._UX679_.jpg"
+    }
+]
