@@ -1,13 +1,13 @@
 [
     {
-        lgvName: 'CTR1',
-        load:365,
-        status:'Wait Qty Check',
-        currentPos: {
+        'lgvName': 'CTR1',
+        'load':'365',
+        'status':'Wait Qty Check',
+        'currentPos': {
             "lat": 703.140625,
             "lng": 289
         },
-        path: [
+        'path': [
             {
                 "lat": 703.140625,
                 "lng": 289
@@ -107,14 +107,14 @@
         ]
     },
     {
-        lgvName: 'CTR2',
-        load:12,
-        status:'Scheduled',
-        currentPos:  {
+        'lgvName': 'CTR2',
+        'load':12,
+        'status':'Scheduled',
+        'currentPos':  {
             "lat": 769.640625,
             "lng": 486
         },
-        path: [
+        'path': [
             {
                 "lat": 769.640625,
                 "lng": 486
@@ -170,14 +170,14 @@
         ]
     },
     {
-        lgvName: 'CTR3',
-        load:56,
-        status:'Started',
-        currentPos: {
+        'lgvName': 'CTR3',
+        'load':56,
+        'status':'Started',
+        'currentPos': {
             "lat": 807.640625,
             "lng": 103
         },
-        path: [
+        'path': [
             {
                 "lat": 807.640625,
                 "lng": 103
@@ -209,14 +209,14 @@
         ]
     },
     {
-        lgvName: 'CTR4',
-        load:84,
-        status:'Staged',
-        currentPos: {
+        'lgvName': 'CTR4',
+        'load':84,
+        'status':'Staged',
+        'currentPos': {
             "lat": 808.640625,
             "lng": 581
         },
-        path: [
+        'path': [
             {
                 "lat": 808.640625,
                 "lng": 581
